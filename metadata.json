@@ -1,0 +1,6 @@
+{
+  "name": "Prime Store",
+  "description": "Premium landing page for Prime Store App Marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

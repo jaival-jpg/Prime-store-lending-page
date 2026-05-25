@@ -1,0 +1,8 @@
+# Robots.txt for Prime Store Marketplace (prime-store)
+# Optimized for Google Search Console & Search Indexing
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://prime-app-store.vercel.app/sitemap.xml
