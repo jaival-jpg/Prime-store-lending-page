@@ -6,7 +6,7 @@ export default function Background() {
       {/* Universal Futuristic Sci-fi Space Hub Backdrop */}
       <div className="absolute inset-0 z-[-2] select-none pointer-events-none opacity-80 sm:opacity-65 lg:opacity-70 transition-opacity duration-500">
         <img 
-          src="/src/assets/images/hero_background_1779692612540.png" 
+          src="Prime-store-lending-page/src/assets/images/hero_background_1779692612540.png" 
           alt="Futuristic Space Hub background" 
           className="w-full h-full object-cover object-[75%_center] sm:object-center scale-105 brightness-[1.25] saturate-[1.15] transition-transform duration-700"
           referrerPolicy="no-referrer"
